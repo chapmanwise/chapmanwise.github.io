@@ -26,7 +26,7 @@
       <div class="divtotal">
 
         <div class="about">
-            <a href="https://chapmanwise.github.io-about"  target="_blank" style="text-decoration:none;color:blue}">About Me</a>
+            <a href="https://chapmanwise.github.io/chapmanwise.github.io-about/"  target="_blank" style="text-decoration:none;color:blue}">About Me</a>
         </div>
 
         <div class="projects">
