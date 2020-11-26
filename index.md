@@ -34,7 +34,7 @@
         </div>
 
         <div class="skill sets">
-            <a href="https://chapmanwise.github.io-skillsets"  target="_blank"  style="text-decoration:none;color:blue}">Skill Sets</a>
+            <a href="https://chapmanwise.github.io/chapmanwise.github.io-skillsets/"  target="_blank"  style="text-decoration:none;color:blue}">Skill Sets</a>
         </div>
 
         <div class="employment history">
