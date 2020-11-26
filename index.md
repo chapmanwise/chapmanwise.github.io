@@ -26,7 +26,7 @@
       <div class="divtotal">
 
         <div class="about">
-            <a href="https://aboutchapmanwise.github.io"  target="_blank" style="text-decoration:none;color:blue}">About Me</a>
+            <a href="https://chapmanwise.github.io-about"  target="_blank" style="text-decoration:none;color:blue}">About Me</a>
         </div>
 
         <div class="projects">
@@ -34,7 +34,7 @@
         </div>
 
         <div class="skill sets">
-            <a href="https://chapmanwiseskillsets.github.io"  target="_blank"  style="text-decoration:none;color:blue}">Skill Sets</a>
+            <a href="https://chapmanwise.github.io-skillsets"  target="_blank"  style="text-decoration:none;color:blue}">Skill Sets</a>
         </div>
 
         <div class="employment history">
